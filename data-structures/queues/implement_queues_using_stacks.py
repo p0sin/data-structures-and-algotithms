@@ -1,5 +1,5 @@
 #This ia popular interview question. Implementation of a queue using stacks.
-#We have access to stacks push and pop operations. Using those we need to execute a qeueue's enqueue and dequeue operation
+#We have access to stacks push and pop operations. Using those we need to execute a queue's enqueue and dequeue operation
 #It can be done in two ways, by either making the enqueue operation costly(O(n)) or the dequeue operation costly(O(n))
 #In the first method, we need two stacks say s1 and s2 and we have maintain them such that the element entered first
 #Is always at the top of the stack s1. This way, for dequeue, we just need to pop from s1.
