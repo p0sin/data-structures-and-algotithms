@@ -12,7 +12,7 @@
 #But in some cases, more than one keys can map to the same slot and that increases the time complexity by some margin,
 #although not by a lot in most cases. This is known as a collision.
 #Now, like for almost all problem there is some sort of a solution in the computer science world,
-#collisions can also be resolved by numerous collison resolution techniques like open addressing and closed addressing
+#collisions can also be resolved by numerous collision resolution techniques like open addressing and closed addressing
 
 #Enough details, let's look at how hash tables are implemented in Python using dictionaries.
 
